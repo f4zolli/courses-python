@@ -1,0 +1,16 @@
+# SEÇÃO 3: Iniciando na programação com Python (Lógica de programação básica)
+Class notes
+
+- [Docstrings como comentários](./classes/1docstrings.py)
+- [A função print](./classes/2print.py)
+- [Tipo str (string) - Introdução aos tipos de dados](./classes/3str-tiposdedados.py)
+- [Tipo int e float (números) - Introdução aos tipos de dados](./classes/4int_and_float-tiposdedados.py)
+- [Tipo bool (boolean) - Introdução aos tipos de dados)](./classes/5bool-tiposdedados.py)
+- [Coerção de tipos (convertendo um tipo para outro)](./classes/6coercao.py)
+- [Introdução às variáveis em Python](./classes/7variaveis.py)
+- [Exercício com variáveis e tipos de dados](./classes/8exerc-variaveis_tiposdedados.py)
+- [Introdução aos operadores aritméticos (matemática)](./classes/9operadores_aritmeticos.py)
+- [Concatenação (+) e repetição (*) com operadores aritméticos](./classes/10concatenacao.py)
+- [Precedência entre os operadores aritméticos](./classes/11precedencia_operadores.py)
+- [Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)+Ellipsis](./classes/12exerc-calculoIMC.py)
+- [Uma introdução às f-strings (formatação de strings)](./classes/13fstrings.py)
