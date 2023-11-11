@@ -14,3 +14,4 @@ Class notes
 - [Precedência entre os operadores aritméticos](./classes/11precedencia_operadores.py)
 - [Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)+Ellipsis](./classes/12exerc-calculoIMC.py)
 - [Uma introdução às f-strings (formatação de strings)](./classes/13fstrings.py)
+- [Formatação de strings com o método format](./classes/14formatacao-string_format.py)
