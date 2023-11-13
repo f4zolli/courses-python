@@ -15,3 +15,7 @@ Class notes
 - [Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)+Ellipsis](./classes/12exerc-calculoIMC.py)
 - [Uma introdução às f-strings (formatação de strings)](./classes/13fstrings.py)
 - [Formatação de strings com o método format](./classes/14formatacao-string_format.py)
+- [Usando a função input para coletar dados do usuário](./classes/15input.py)
+
+.
+  - [Exercise tests](./classes/teste.py)
