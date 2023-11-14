@@ -16,6 +16,8 @@ Class notes
 - [Uma introdução às f-strings (formatação de strings)](./classes/13fstrings.py)
 - [Formatação de strings com o método format](./classes/14formatacao-string_format.py)
 - [Usando a função input para coletar dados do usuário](./classes/15input.py)
-
+- [Introdução aos blocos de código + if / elif / else (condicionais)](./classes/16if-elif-else-condicionais.py)
+- [if, elif e else: entendendo o fluxo do interpretador em condicionais](./classes/17if-elif-else-fluxo-interpretador.py)
+- [O Debugger do VS Code e o interpretador do Python lendo os códigos](./classes/18debugger-vscode.md)
 .
   - [Exercise tests](./classes/teste.py)
