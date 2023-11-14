@@ -19,5 +19,7 @@ Class notes
 - [Introdução aos blocos de código + if / elif / else (condicionais)](./classes/16if-elif-else-condicionais.py)
 - [if, elif e else: entendendo o fluxo do interpretador em condicionais](./classes/17if-elif-else-fluxo-interpretador.py)
 - [O Debugger do VS Code e o interpretador do Python lendo os códigos](./classes/18debugger-vscode.md)
+- [Operadores relacionais (de comparação) em Python](./classes/19operadores-relacionais.py)
+- [Exercicio de programação com if e comparação](./classes/20exerc-if-comp.py)
 .
-  - [Exercise tests](./classes/teste.py)
+- [Exercise tests](./classes/teste.py)
