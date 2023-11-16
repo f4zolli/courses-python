@@ -21,5 +21,11 @@ Class notes
 - [O Debugger do VS Code e o interpretador do Python lendo os códigos](./classes/18debugger-vscode.md)
 - [Operadores relacionais (de comparação) em Python](./classes/19operadores-relacionais.py)
 - [Exercicio de programação com if e comparação](./classes/20exerc-if-comp.py)
+- [Operador Logico "and"](./classes/21operador-and.py)
+- [Operador Logico "or"](./classes/22operador-or.py)
+- [Operador Logico "not"](./classes/23operador-not.py)
+- [Operadores IN e NOT IN](./classes/24operadores-in-notin.py)
+
+
 .
 - [Exercise tests](./classes/teste.py)
