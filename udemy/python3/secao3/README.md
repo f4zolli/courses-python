@@ -25,6 +25,12 @@ Class notes
 - [Operador Logico "or"](./classes/22operador-or.py)
 - [Operador Logico "not"](./classes/23operador-not.py)
 - [Operadores IN e NOT IN](./classes/24operadores-in-notin.py)
+- [Interpolacao de string com % em Python](./classes/25interpolacao-string.py)
+- [Formatacao de strings com f-string](./classes/26formataca-fstring.py)
+- [Fatiamento de strings e a funcao len](./classes/27fatiamentostring-len.py)
+- [Exercicio: teste seu conhecimento ate aqui](./classes/28exerc.py)
+- [Introdução ao try e except para capturar erros (exceptions)](./classes/29exceptions.py)
+- [Parte 1 e 2: Variaveis, constantes e complexidade de codigo](./classes/30part1.py)
 
 
 .
