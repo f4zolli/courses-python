@@ -16,34 +16,38 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 "Seu nome é normal"; maior que 6 escreva "Seu nome é muito grande". 
 """
 
-numero = int(input('Digite um numero inteiro: '))
+numero = input('Digite um numero inteiro: ')
 
-if numero % 2 == 0:
-    print('O numero que voce digitou eh par')
-else:
-    print('O numero que vc digitou eh impar')
+if numero.isdigit():
+    numero_int = int(numero)
+    numero_par = numero_int % 2 == 0
+    numero_par_texto = 'impar'
 
-if int(numero):
-    print('O numero eh do tipo inteiro')
+    if numero_par:
+        numero_par_texto = 'par'
+    
+    print(f'O numero {numero_int} eh {numero_par_texto}')
 else:
-    print('O numero NAO eh do tipo inteiro')
+    print('Voce nao digitou um numero inteiro')
 
 # exercicio 2
 
-hora = int(input('Que hora eh agora? '))
+hora = input('Que hora eh agora? (digite em numeros inteiros): ')
 
-bom_dia = hora <= 11
-boa_tarde = hora >= 12 and hora <= 17
-boa_noite = hora >= 18 and hora <= 23
+try:
+    entrada = int(hora)
 
-if bom_dia:
-    print(f'Bom dia, agora eh {hora}hrs')
+    if entrada >= 0 and entrada <= 11:
+        print(f'Bom dia, agora sao {entrada}hrs')
+    elif entrada >= 12 and entrada <= 17:
+        print(f'Boa tarde, agora sao {entrada}hrs')
+    elif entrada >= 18 and entrada <= 23:
+        print(f'Boa noite, agora sao {entrada}hrs')
+    else:
+        print('Nao existe 24hrs')
 
-if boa_tarde:
-    print(f'Boa tarde, agora eh {hora}hrs')
-
-if boa_noite:
-    print(f'Boa noite, agora eh {hora}hrs')
+except:
+    print('Voce nao digitou um numero inteiro')
 
 
 nome = input('Insira seu primeiro nome: ')
